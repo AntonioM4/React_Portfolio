@@ -6,35 +6,17 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'fitness-tracker',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://sheltered-ravine-90487.herokuapp.com/?id=61b6938c2ce838001658dfd0",
+      repo: "https://github.com/AntonioM4/Fitness_Tracker"
     },
-    {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+    // {
+    //   name: 'project3-nfl',
+    //   description: 'MERN Stack',
+    //   link: "https://sheltered-ravine-90487.herokuapp.com/?id=61b6938c2ce838001658dfd0",
+    //   repo: "https://github.com/AntonioM4/Fitness_Tracker"
+    // },
   ]);
 
   return (

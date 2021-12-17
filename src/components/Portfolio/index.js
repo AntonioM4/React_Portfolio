@@ -11,12 +11,18 @@ function Portfolio() {
       link: "https://sheltered-ravine-90487.herokuapp.com/?id=61b6938c2ce838001658dfd0",
       repo: "https://github.com/AntonioM4/Fitness_Tracker"
     },
-    // {
-    //   name: 'project3-nfl',
-    //   description: 'MERN Stack',
-    //   link: "https://sheltered-ravine-90487.herokuapp.com/?id=61b6938c2ce838001658dfd0",
-    //   repo: "https://github.com/AntonioM4/Fitness_Tracker"
-    // },
+    {
+      name: 'project-3-nfl',
+      description: 'WIP',
+      link: "",
+      repo: "https://github.com/AntonioM4/Fitness_Tracker"
+    },
+    {
+      name: 'book-search',
+      description: 'MERN stack',
+      link: "",
+      repo: "https://github.com/AntonioM4/Book_search"
+    },
   ]);
 
   return (

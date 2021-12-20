@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff9e07b9.chunk.css",
-    "main.js": "/static/js/main.0373e0d5.chunk.js",
-    "main.js.map": "/static/js/main.0373e0d5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.b9788bfc.chunk.js": "/static/js/2.b9788bfc.chunk.js",
-    "static/js/2.b9788bfc.chunk.js.map": "/static/js/2.b9788bfc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c67e76d9d8296800a59c778eb54ed47d.js": "/precache-manifest.c67e76d9d8296800a59c778eb54ed47d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ff9e07b9.chunk.css.map": "/static/css/main.ff9e07b9.chunk.css.map",
-    "static/js/2.b9788bfc.chunk.js.LICENSE.txt": "/static/js/2.b9788bfc.chunk.js.LICENSE.txt",
-    "static/media/book-search.jpg": "/static/media/book-search.62128d47.jpg",
-    "static/media/calculator.jpg": "/static/media/calculator.a19f2b67.jpg",
-    "static/media/cover-image.jpg": "/static/media/cover-image.402a471b.jpg",
-    "static/media/fitness-tracker.jpg": "/static/media/fitness-tracker.9f2caf0d.jpg",
-    "static/media/pastel-puzzels.jpg": "/static/media/pastel-puzzels.ed494730.jpg",
-    "static/media/project-3-nfl.jpg": "/static/media/project-3-nfl.70c7d160.jpg",
-    "static/media/run-buddy.jpg": "/static/media/run-buddy.938f8fe0.jpg",
-    "static/media/surf-report.jpg": "/static/media/surf-report.12557c9b.jpg"
+    "main.css": "/React_Portfolio/static/css/main.ff9e07b9.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.3e5e8262.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.3e5e8262.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
+    "static/js/2.b9788bfc.chunk.js": "/React_Portfolio/static/js/2.b9788bfc.chunk.js",
+    "static/js/2.b9788bfc.chunk.js.map": "/React_Portfolio/static/js/2.b9788bfc.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "precache-manifest.692ea940fd36dcd19341ac843ad85ebc.js": "/React_Portfolio/precache-manifest.692ea940fd36dcd19341ac843ad85ebc.js",
+    "service-worker.js": "/React_Portfolio/service-worker.js",
+    "static/css/main.ff9e07b9.chunk.css.map": "/React_Portfolio/static/css/main.ff9e07b9.chunk.css.map",
+    "static/js/2.b9788bfc.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.b9788bfc.chunk.js.LICENSE.txt",
+    "static/media/book-search.jpg": "/React_Portfolio/static/media/book-search.62128d47.jpg",
+    "static/media/calculator.jpg": "/React_Portfolio/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/React_Portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/fitness-tracker.jpg": "/React_Portfolio/static/media/fitness-tracker.9f2caf0d.jpg",
+    "static/media/pastel-puzzels.jpg": "/React_Portfolio/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/project-3-nfl.jpg": "/React_Portfolio/static/media/project-3-nfl.70c7d160.jpg",
+    "static/media/run-buddy.jpg": "/React_Portfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/React_Portfolio/static/media/surf-report.12557c9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.446e9683.js",
     "static/js/2.b9788bfc.chunk.js",
     "static/css/main.ff9e07b9.chunk.css",
-    "static/js/main.0373e0d5.chunk.js"
+    "static/js/main.3e5e8262.chunk.js"
   ]
 }
